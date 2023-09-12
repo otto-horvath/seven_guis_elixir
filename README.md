@@ -1,3 +1,5 @@
+Based on https://eugenkiss.github.io/7guis/tasks/
+
 # SevenGuis
 
 To start your Phoenix server:
